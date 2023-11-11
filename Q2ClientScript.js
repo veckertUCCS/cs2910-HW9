@@ -1,3 +1,4 @@
+//Connect to the node.js implementation of the chat server
 let socket = new WebSocket("ws://localhost:8080/ws");
 
 // send message from the form

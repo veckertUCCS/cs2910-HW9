@@ -1,3 +1,4 @@
+//Connect the socket to the JSInfo chat server
 let socket = new WebSocket("wss://javascript.info/article/websocket/chat/ws");
 
 // send message from the form
