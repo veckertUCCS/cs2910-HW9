@@ -10,4 +10,4 @@ I learned that web sockets provide a means for clients and servers to maintain a
 
 When it comes to JS, the clients and servers have a pretty simple mechanism to interact with each other. They send and receive messages that can be encoded as text or binary for better flexibility.
 
-While the implementation of web sockets has a lot of helpful abstractions to make it easier to work with them in code, the base implementation is missing some potentially desirable features that require wither manual implementation or the integration of external libraries (which could introduce dependency-related vulnerabilities) to use.
+While the implementation of web sockets has a lot of helpful abstractions to make it easier to work with them in code, the base implementation is missing some potentially desirable features that require either manual implementation or the integration of external libraries (which could introduce dependency-related vulnerabilities) to use.
